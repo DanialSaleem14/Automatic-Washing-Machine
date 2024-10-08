@@ -9,3 +9,6 @@
 --->Child Lock: There is an option to enable or disable the child lock during operation
 
 ![2](https://github.com/user-attachments/assets/a0a9a00f-2dbc-4a61-8915-476a7132186b)
+![1](https://github.com/user-attachments/assets/90e6d308-8a3d-4770-9866-95e17cccca8e)
+![3](https://github.com/user-attachments/assets/a30a95c5-2d4d-4563-921e-9f033a7c3b83)
+
